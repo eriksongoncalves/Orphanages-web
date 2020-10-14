@@ -40,7 +40,7 @@ function OrphanegesMap() {
       </aside>
 
       <Map
-        center={[-23.6821604, -46.8754916]}
+        center={[-27.2092052, -49.6401092]}
         zoom={15}
         style={{
           width: '100%',

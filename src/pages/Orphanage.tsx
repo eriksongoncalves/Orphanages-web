@@ -73,7 +73,7 @@ export default function Orphanage() {
 
             <div className="map-container">
               <Map
-                center={[-27.2092052, -49.6401092]}
+                center={[orphanage.latitude, orphanage.longitude]}
                 zoom={16}
                 style={{ width: '100%', height: 280 }}
                 dragging={false}
